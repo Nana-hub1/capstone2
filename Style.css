@@ -1,0 +1,87 @@
+.hero {
+  background-color: rgb(255, 237, 250);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero h1 {
+  color: rgb(204, 223, 146) !important;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 3px ;
+}
+
+p {
+  color: rgb(222, 49, 99);
+  font-weight: bold !important;
+  letter-spacing: 3px;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.codegirl {
+  border-radius: 30px;
+
+}
+.aprogrammer {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-size: 35px;
+  font-weight: 400;
+  font-style: normal;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+  font-size: 20px;
+ letter-spacing: 3px;
+ font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+ 
+  
+}
+.about h2 {
+  color: rgb(204, 223, 146) !important;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 3px;
+  font-size: 40px;
+}
+.nana2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+h3 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  letter-spacing: 3px;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+h4 {
+  color: rgb(222, 49, 99) ;
+  font-weight: bolder;
+  letter-spacing: 3px;
+
+}
+.contact-me {
+  display: flex;
+  height: 100vh;
+}
+footer {
+  width: 100%;
+}
